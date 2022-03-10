@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Node js**
 
-- 👨‍💻 All of my projects are available at [https://iskandarli.netlify.app/](https://iskandarli.netlify.app/)
+- 👨‍💻 All of my projects are available at https://the-iskandarli.netlify.app/
 
 - 📫 How to reach me **iskenderli-97@mail.ru**
 
